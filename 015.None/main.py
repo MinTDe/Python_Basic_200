@@ -7,6 +7,7 @@ data_none = 1
 
 print(data_none)
 
+#while문이 실행되지 않는다는 것을 알 수 있다.
 data_none = None
 
 while data_none :
