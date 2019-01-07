@@ -6,7 +6,11 @@ str2 = "World!"
 str3 = """HEllo
     World"""
 
+#문자열에 '이 있을 경우에는 ""을 사용한다.
+str4 = "I'm MinTDe"
+
 print(str1)
 print(str2)
 print(str1 + str2)
 print(str3)
+print(str4)
