@@ -7,7 +7,7 @@
 import mypackage.mylib
 
 #import module_name
-import sleep.time
+import time
 
 time.sleep(1)
 
