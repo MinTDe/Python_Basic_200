@@ -6,4 +6,4 @@ tuple1 = reverse(1, 2, 3)       #return 값이 많으 때는 Tuple로 return값�
 print(tuple1)
 
 a, b, c = reverse(1, 2, 3)      #개별적으로 return값을 넣을 수 있다.
-print(a);print(b);print(c)
+print(a);print(b);print(c)      #Tuple의 요소의 개수만큼 나눠줘야된다.
