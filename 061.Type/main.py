@@ -1,3 +1,4 @@
+#type 함수 예시
 num_data = 123
 str_data = 'python'
 list_data = [1,2,3]
