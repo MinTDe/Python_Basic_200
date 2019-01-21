@@ -1,5 +1,5 @@
-#문자열 대소문자 변환 함수
-#함수 = upper, lower
+#문자열 대소문자 변환 메소드
+#메소드 = upper, lower
 
 txt1 = 'The Internet of Things'
 
